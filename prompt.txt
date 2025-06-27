@@ -1,169 +1,240 @@
-Generate the html code for a daily fantasy sports website. The website must adhere to the online non-casino games policy of Google Ads and must be compliant with it.
+# Generate Visually Stunning Daily Fantasy Sports Website
 
-Generate an unique framework for the site - so it's an unique, modern site.
+**CRITICAL UNIQUENESS INSTRUCTION**: Each time you generate this website, it MUST be completely unique. Before starting, mentally "roll dice" to randomly select options from each category below. Never generate the same combination twice.
 
-Include some of the next ideas to ensure that the site generated is unique :
+## Randomization Strategy
+1. For each "RANDOMLY CHOOSE" instruction, select a different option than previous generations
+2. Vary numerical values by at least 15-30% each time
+3. Use different combinations of features (never repeat the same set)
+4. Generate unique class names using random prefixes/suffixes
+5. Apply different animation timings, easing functions, and sequences
 
-Vary DOM tree depth, randomizing classes and ID names, having different markup styles (use semantic tags like <article>, <aside> and other times use generic <div> etc
-Then u can use different dynamic inline styles - small inline style tweaks: padding: 12px vs. padding: 12.3px, unique CSS variables,
-use external stylesheets for some builds, and inline <style> blocks or CSS-in-JS for others, different web-safe fonts, different content copy, varied <title> formats (“SuperSlot Casino – Play Free” vs. “Free Casino Games at SuperSlot”) and meta descriptions etc, serve the same image under different filenames and formats, use different JSON-LD schemas.
+Create a visually striking, modern daily fantasy sports (DFS) informational website that adheres to Google Ads' online non-casino games policy and is fully compliant.
 
-Each url must have a canonical url for SEO purposes.
+## IMPORTANT: Uniqueness Requirements
+**Each generation must be completely unique. Randomly select from the options below:**
 
-Also generate the sitemap.xml
+## Visual Design Requirements
 
-Use the next site outline :
+### Design System
+- **Color Palette** (RANDOMLY CHOOSE ONE):
+  - Option A: Electric blue to purple gradient (#0066FF → #6B00FF) with neon green accent
+  - Option B: Crimson to orange gradient (#DC143C → #FF8C00) with cyan accent  
+  - Option C: Emerald to teal gradient (#10B981 → #14B8A6) with golden accent
+  - Option D: Indigo to pink gradient (#4F46E5 → #EC4899) with lime accent
+  - Option E: Generate a completely new color scheme with 2-3 colors
+  
+- **Typography** (RANDOMLY SELECT COMBINATIONS): 
+  - Heading fonts: Choose 1-2 from [Inter, Poppins, Space Grotesk, Raleway, Montserrat, Bebas Neue, Oswald]
+  - Body fonts: Choose 1 from [Roboto, Open Sans, Lato, Source Sans Pro, Nunito]
+  - Randomly vary font weights (300-900) and letter-spacing (-0.02em to 0.1em)
+  - Text effects: Randomly apply 0-3 effects (shadows, gradients, outlines, glows)
 
-Homepage
-Hero Section
-* Eye-catching headline about mastering daily fantasy sports
-* Brief value proposition (learn rules, scoring, strategies)
-* Call-to-action buttons (Get Started, View Best Apps)
-What is Daily Fantasy Sports?
-* Definition and basic concept
-* How it differs from season-long fantasy
-* Legal status overview
-* Popular sports covered (NFL, NBA, MLB, NHL, Soccer, Golf)
-DFS Rules & Gameplay
-* Basic Rules
-   * Contest types (GPPs, Cash Games, Head-to-Heads)
-   * Salary cap mechanics
-   * Roster construction requirements
-   * Entry limits and multi-entry rules
-* Platform-Specific Rules
-   * DraftKings rules overview
-   * FanDuel rules overview
-   * Other major platforms
-Scoring Systems
-* Sport-by-Sport Scoring
-   * NFL scoring breakdown
-   * NBA scoring breakdown
-   * MLB scoring breakdown
-   * NHL scoring breakdown
-   * Soccer & other sports
-* Scoring Variations
-   * PPR vs Standard (NFL)
-   * Bonus scoring systems
-   * Platform differences
-Strategies & Tips
-* Beginner Strategies
-   * Bankroll management fundamentals
-   * Contest selection guide
-   * Understanding ownership percentages
-   * Lineup construction basics
-* Advanced Strategies
-   * Game stacking techniques
-   * Leverage plays and differentiation
-   * Late swap strategies
-   * Multi-lineup optimization
-* Research & Tools
-   * Essential statistics to track
-   * Weather and venue factors
-   * Injury report importance
-   * Recommended research routine
-Quick Start Guide
-* Step-by-step process to begin
-* Choosing your first platform
-* Making your first deposit
-* Entering your first contest
-Footer
-* Links to all pages
-* Newsletter signup
-* Social media links
-* Responsible gaming resources
-Best DFS Apps Page
+### Modern UI Components (RANDOMLY VARY EACH ELEMENT)
+- **Hero Section** (CHOOSE 1 STYLE): 
+  - Style A: Full-screen with animated gradient + floating particles
+  - Style B: Split-screen with 3D rotating elements
+  - Style C: Video background with overlay and parallax
+  - Style D: Geometric shapes with SVG animations
+  - Style E: Minimalist with bold typography and subtle animations
+  
+- **Layout Framework** (RANDOMLY SELECT):
+  - CSS Grid with 12, 16, or 24 column system
+  - Flexbox-based with varied flex directions
+  - Mixed Grid + Flexbox approach
+  - Container queries with custom breakpoints
+  - Asymmetric layouts with random column spans
+  
+- **Interactive Elements**:
+  - Smooth scroll animations (fade-in, slide-up, scale)
+  - Hover effects with transform3d for depth
+  - Neumorphic buttons and card designs
+  - CSS Grid layouts with asymmetric designs
+  - Animated SVG icons and illustrations
+  - Loading states with skeleton screens
+  
+- **Visual Features**:
+  - Gradient borders and mesh gradients
+  - Box shadows with multiple layers
+  - CSS custom properties for dynamic theming
+  - Clip-path for unique shapes
+  - Mix-blend-mode for creative overlays
+  - CSS animations (@keyframes) for movement
 
-The page will feature 5 ads placeholders 320x400 before the page content, but after the page title
+## Technical Uniqueness Requirements
 
-Top Daily Fantasy Sports Platforms
-* Platform Reviews (for each major app)
-   * DraftKings
-   * FanDuel
-   * Yahoo Fantasy
-   * PrizePicks
-   * Underdog Fantasy
-* For Each Platform Include:
-   * Overview and history
-   * Available sports
-   * Contest types offered
-   * Minimum/maximum entries
-   * Deposit/withdrawal methods
-   * Bonus offers and promotions
-   * Mobile app features
-   * Pros and cons
-   * User experience rating
-Comparison Table
-* Side-by-side feature comparison
-* Pricing structures
-* Available states/countries
-* Customer support quality
-How to Choose the Right App
-* Factors to consider
-* Beginner-friendly options
-* High-volume player recommendations
-* Sport-specific recommendations
-Privacy Policy Page
-Standard Sections
-* Information we collect
-* How we use your information
-* Cookies and tracking technologies
-* Third-party services
-* Data security measures
-* Your privacy rights
-* Children's privacy
-* Changes to privacy policy
-* Contact information
-Cookie Policy Page
-Standard Sections
-* What are cookies
-* Types of cookies we use
-* How we use cookies
-* Third-party cookies
-* Managing cookie preferences
-* Cookie consent
-* Updates to cookie policy
-* Contact information
-Terms Page (Terms of Service)
-Standard Sections
-* Acceptance of terms
-* Description of service
-* User accounts and registration
-* Prohibited uses
-* Intellectual property rights
-* User-generated content
-* Disclaimers and limitations
-* Indemnification
-* Termination
-* Governing law
-* Changes to terms
-* Contact information
-Responsible Terms & Conditions Page
-Responsible Gaming Focus
-* Age restrictions (21+ in most jurisdictions)
-* Problem gambling awareness
-* Self-exclusion options
-* Deposit limit recommendations
-* Time management tips
-* Warning signs of problem gambling
-* Resources for help
-   * National helpline numbers
-   * Support organizations
-   * Self-assessment tools
-* Responsible gaming best practices
-* Platform-specific responsible gaming features
-* Legal compliance statement
-Additional Recommendations
-Site-Wide Features
-* Responsive design for mobile/tablet
-* Search functionality
-* Glossary of DFS terms
-* FAQ section
-* Email newsletter signup
-* SSL certificate for security
-SEO Considerations
-* Optimize each page for relevant keywords
-* Create unique meta descriptions
-* Implement schema markup
-* Mobile-first design approach
-* Fast page load speeds
-This outline provides a comprehensive structure for your DFS informational website while keeping it focused on education rather than news or updates.
+### DOM Structure Variations (MUST BE RANDOM EACH TIME)
+- **DOM Depth**: Randomly choose between 3-7 levels
+- **Tag Selection** (for each section, randomly pick approach):
+  - 70% semantic tags (`<article>`, `<section>`, `<nav>`, `<header>`)
+  - 70% generic `<div>` and `<span>`
+  - Mixed approach with random distribution
+- **Class Naming** (RANDOMLY SELECT PER COMPONENT):
+  - BEM: `block__element--modifier`
+  - Atomic: `mt-4 px-6 bg-primary`
+  - camelCase: `heroSection primaryButton`
+  - kebab-case: `hero-section primary-button`
+  - Random prefixes: `dfs-`, `app-`, `c-`, `u-`, or generate unique 3-letter prefix
+- **ID Patterns** (CHOOSE ONE):
+  - Descriptive: `hero-section`, `main-nav`
+  - Hash-based: `section-a7b3c9`, `nav-x9y2z1`
+  - Numbered: `section-001`, `component-042`
+  - No IDs (use data attributes instead)
+
+### Style Implementation Variety
+- Mix external stylesheets, inline `<style>` blocks, and inline styles
+- Use CSS variables with unique naming schemes
+- Apply micro-variations: `padding: 16px` vs `padding: 16.2px` vs `padding: 1rem`
+- Different CSS methodologies per page (utility-first, component-based)
+- Vary animation durations: `0.3s` vs `300ms` vs `0.35s`
+
+### Asset & Meta Variations
+- Serve images with different filenames and formats (WebP, AVIF, JPG)
+- Unique title formats per page
+- Varied meta descriptions and Open Graph tags
+- Different JSON-LD schema implementations
+- Canonical URLs for all pages
+
+## Site Structure & Content
+
+### Homepage
+**Hero Section**
+- Animated headline: "Master the Art of Daily Fantasy Sports"
+- Glowing subtitle with typewriter effect
+- 3D rotating sports icons background
+- Glassmorphic CTA cards: "Start Learning" and "Explore Top Apps"
+
+**What is Daily Fantasy Sports?**
+- Animated infographic explaining DFS
+- Interactive comparison slider (DFS vs Season-long)
+- Legal status map with hover states
+- Sport cards with hover animations (NFL, NBA, MLB, NHL, Soccer, Golf)
+
+**DFS Rules & Gameplay**
+- Tabbed interface with smooth transitions
+- Contest types visualization (GPPs, Cash Games, H2H)
+- Interactive salary cap calculator
+- Animated roster builder demo
+
+**Scoring Systems**
+- Sport selector with icon animations
+- Dynamic scoring tables with hover highlights
+- Visual scoring comparisons
+- Platform difference indicators
+
+**Strategies & Tips**
+- Expandable accordion with icon animations
+- Progress bars for skill levels
+- Interactive strategy flowcharts
+- Animated tip cards
+
+**Quick Start Guide**
+- Step progress indicator with animations
+- Interactive checklist
+- Animated tutorial cards
+
+### Best DFS Apps Page
+
+**5 Ad Placeholders** (320x400)
+- Styled as loading skeletons initially
+- Smooth fade-in animation
+- Subtle shadow and border effects
+
+**Platform Reviews**
+Review these platforms (NO FanDuel or DraftKings):
+- Yahoo Fantasy Sports
+- PrizePicks
+- Underdog Fantasy
+- Sleeper
+- SuperDraft
+
+For each platform:
+- Hero card with gradient background
+- Animated feature lists
+- Interactive pros/cons toggle
+- Star rating with hover effects
+- Screenshot carousel with lightbox
+- Animated deposit/withdrawal method icons
+
+**Comparison Table**
+- Sticky header on scroll
+- Hover row highlights
+- Sortable columns with animations
+- Feature availability checkmarks with bounce effect
+
+### Legal Pages (Privacy, Cookie, Terms, Responsible Gaming)
+- Clean, readable design with proper spacing
+- Floating table of contents
+- Smooth scroll-to-section
+- Highlight on hover for important sections
+- Modern typography and spacing
+
+### Content Variations (RANDOMIZE ALL TEXT)
+- **Headlines** (vary tone and style):
+  - Professional: "Master Daily Fantasy Sports Strategy"
+  - Exciting: "Dominate DFS Like a Pro!"
+  - Friendly: "Your Journey to DFS Success Starts Here"
+  - Bold: "Crush the Competition in Daily Fantasy"
+  - Generate unique variations each time
+  
+- **CTA Buttons** (randomly select text):
+  - Primary: [Get Started, Start Now, Begin Today, Launch Your Journey, Dive In]
+  - Secondary: [Learn More, Explore Apps, View Platforms, Discover More, See Options]
+  
+- **Micro-copy Variations**:
+  - Success messages: Vary between formal/casual/enthusiastic
+  - Error messages: Different tones and helpful suggestions
+  - Loading states: Creative variations ("Preparing your experience...", "Loading awesome content...", "Almost there...")
+
+## Additional Visual Requirements
+
+### Animations & Transitions
+```css
+/* Example smooth transitions */
+transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+transform: translateY(0) scale(1);
+animation: fadeInUp 0.6s ease-out forwards;
+```
+
+### Responsive Design
+- Mobile-first approach
+- Fluid typography using clamp()
+- Container queries where appropriate
+- Touch-friendly interactive elements
+- Gesture support for carousels
+
+### Performance & SEO
+- Lazy loading for images
+- Critical CSS inline
+- Preload key fonts
+- Generate sitemap.xml with all pages
+- Structured data for rich snippets
+
+### Dark Mode Features
+- CSS custom properties for theme switching
+- Smooth color transitions
+- Adjusted contrast ratios
+- Glowing effects more prominent in dark mode
+
+## Output Requirements
+1. Complete HTML files for all pages
+2. Unique visual design for each page while maintaining consistency
+3. Sitemap.xml file
+4. All canonical URLs properly set
+5. Mobile-responsive design
+6. Smooth animations and transitions
+7. Modern, visually appealing interface that stands out
+
+## UNIQUENESS CHECKLIST (Verify before generating):
+- [ ] Different color scheme than any previous generation
+- [ ] New combination of fonts and typography
+- [ ] Unique class naming convention and prefixes
+- [ ] Different layout approach and grid system
+- [ ] Varied animation styles and timings
+- [ ] Fresh content copy and headlines
+- [ ] New visual effects combination
+- [ ] Different DOM structure depth and organization
+- [ ] Unique meta descriptions and title formats
+- [ ] Novel interaction patterns and hover effects
+
+Remember: Create a visually stunning, modern website that would make users say "wow" while remaining professional and trustworthy for a DFS educational platform. Each generation must be distinctly different from any previous version.
