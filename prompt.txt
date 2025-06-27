@@ -1,0 +1,169 @@
+Generate the html code for a daily fantasy sports website. The website must adhere to the online non-casino games policy of Google Ads and must be compliant with it.
+
+Generate an unique framework for the site - so it's an unique, modern site.
+
+Include some of the next ideas to ensure that the site generated is unique :
+
+Vary DOM tree depth, randomizing classes and ID names, having different markup styles (use semantic tags like <article>, <aside> and other times use generic <div> etc
+Then u can use different dynamic inline styles - small inline style tweaks: padding: 12px vs. padding: 12.3px, unique CSS variables,
+use external stylesheets for some builds, and inline <style> blocks or CSS-in-JS for others, different web-safe fonts, different content copy, varied <title> formats (“SuperSlot Casino – Play Free” vs. “Free Casino Games at SuperSlot”) and meta descriptions etc, serve the same image under different filenames and formats, use different JSON-LD schemas.
+
+Each url must have a canonical url for SEO purposes.
+
+Also generate the sitemap.xml
+
+Use the next site outline :
+
+Homepage
+Hero Section
+* Eye-catching headline about mastering daily fantasy sports
+* Brief value proposition (learn rules, scoring, strategies)
+* Call-to-action buttons (Get Started, View Best Apps)
+What is Daily Fantasy Sports?
+* Definition and basic concept
+* How it differs from season-long fantasy
+* Legal status overview
+* Popular sports covered (NFL, NBA, MLB, NHL, Soccer, Golf)
+DFS Rules & Gameplay
+* Basic Rules
+   * Contest types (GPPs, Cash Games, Head-to-Heads)
+   * Salary cap mechanics
+   * Roster construction requirements
+   * Entry limits and multi-entry rules
+* Platform-Specific Rules
+   * DraftKings rules overview
+   * FanDuel rules overview
+   * Other major platforms
+Scoring Systems
+* Sport-by-Sport Scoring
+   * NFL scoring breakdown
+   * NBA scoring breakdown
+   * MLB scoring breakdown
+   * NHL scoring breakdown
+   * Soccer & other sports
+* Scoring Variations
+   * PPR vs Standard (NFL)
+   * Bonus scoring systems
+   * Platform differences
+Strategies & Tips
+* Beginner Strategies
+   * Bankroll management fundamentals
+   * Contest selection guide
+   * Understanding ownership percentages
+   * Lineup construction basics
+* Advanced Strategies
+   * Game stacking techniques
+   * Leverage plays and differentiation
+   * Late swap strategies
+   * Multi-lineup optimization
+* Research & Tools
+   * Essential statistics to track
+   * Weather and venue factors
+   * Injury report importance
+   * Recommended research routine
+Quick Start Guide
+* Step-by-step process to begin
+* Choosing your first platform
+* Making your first deposit
+* Entering your first contest
+Footer
+* Links to all pages
+* Newsletter signup
+* Social media links
+* Responsible gaming resources
+Best DFS Apps Page
+
+The page will feature 5 ads placeholders 320x400 before the page content, but after the page title
+
+Top Daily Fantasy Sports Platforms
+* Platform Reviews (for each major app)
+   * DraftKings
+   * FanDuel
+   * Yahoo Fantasy
+   * PrizePicks
+   * Underdog Fantasy
+* For Each Platform Include:
+   * Overview and history
+   * Available sports
+   * Contest types offered
+   * Minimum/maximum entries
+   * Deposit/withdrawal methods
+   * Bonus offers and promotions
+   * Mobile app features
+   * Pros and cons
+   * User experience rating
+Comparison Table
+* Side-by-side feature comparison
+* Pricing structures
+* Available states/countries
+* Customer support quality
+How to Choose the Right App
+* Factors to consider
+* Beginner-friendly options
+* High-volume player recommendations
+* Sport-specific recommendations
+Privacy Policy Page
+Standard Sections
+* Information we collect
+* How we use your information
+* Cookies and tracking technologies
+* Third-party services
+* Data security measures
+* Your privacy rights
+* Children's privacy
+* Changes to privacy policy
+* Contact information
+Cookie Policy Page
+Standard Sections
+* What are cookies
+* Types of cookies we use
+* How we use cookies
+* Third-party cookies
+* Managing cookie preferences
+* Cookie consent
+* Updates to cookie policy
+* Contact information
+Terms Page (Terms of Service)
+Standard Sections
+* Acceptance of terms
+* Description of service
+* User accounts and registration
+* Prohibited uses
+* Intellectual property rights
+* User-generated content
+* Disclaimers and limitations
+* Indemnification
+* Termination
+* Governing law
+* Changes to terms
+* Contact information
+Responsible Terms & Conditions Page
+Responsible Gaming Focus
+* Age restrictions (21+ in most jurisdictions)
+* Problem gambling awareness
+* Self-exclusion options
+* Deposit limit recommendations
+* Time management tips
+* Warning signs of problem gambling
+* Resources for help
+   * National helpline numbers
+   * Support organizations
+   * Self-assessment tools
+* Responsible gaming best practices
+* Platform-specific responsible gaming features
+* Legal compliance statement
+Additional Recommendations
+Site-Wide Features
+* Responsive design for mobile/tablet
+* Search functionality
+* Glossary of DFS terms
+* FAQ section
+* Email newsletter signup
+* SSL certificate for security
+SEO Considerations
+* Optimize each page for relevant keywords
+* Create unique meta descriptions
+* Implement schema markup
+* Mobile-first design approach
+* Fast page load speeds
+This outline provides a comprehensive structure for your DFS informational website while keeping it focused on education rather than news or updates.
